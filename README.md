@@ -1,4 +1,4 @@
-# Trust me!
+# Shut up! Trust me!
 Use `trust_me` replace `unsafe`. Compiler shut up! Readers shut up too! My code has no bugs, trust me!
 
 add the following line to your Cargo.toml:
