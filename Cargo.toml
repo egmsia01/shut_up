@@ -1,7 +1,7 @@
 [package]
 name = "shut_up"
 description = "Use trust_me、shut_up or other keywords replace 'unsafe'. Compiler shut up! Readers shut up too! My code has no bugs, trust me!"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["egmsia01 <gemingjia0201@163.com>"]
 edition = "2021"
 repository = "https://github.com/egmsia01/shut_up"
