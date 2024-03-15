@@ -2,7 +2,7 @@
 name = "trust_me"
 description = "Use 'trust_me' replace 'unsafe'. Compiler shut up, readers shut up too! My code has no bugs, trust me !"
 version = "0.1.0"
-authors = ["egmsia <gemingjia0201@163.com>"]
+authors = ["egmsia01 <gemingjia0201@163.com>"]
 edition = "2021"
 repository = "https://github.com/egmsia01/trust_me"
 license = "Apache-2.0"
